@@ -12,4 +12,5 @@ This usually works if your chemistry is new and the right temperature all the ti
 We were able to hold a 1% dot well, which is pretty amazing.
 
 ## Sample Image
-![Preview of files](https://github.com/5c0tt/color-calibration-test-fiies/preview.jpg "Sample Image of Target Test Form Images")
+![Preview of file](https://raw.githubusercontent.com/5c0tt/color-calibration-test-fiies/master/preview.jpg "Sample Image of Target Test Form Images")
+
