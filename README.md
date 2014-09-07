@@ -12,4 +12,4 @@ This usually works if your chemistry is new and the right temperature all the ti
 We were able to hold a 1% dot well, which is pretty amazing.
 
 ## Sample Image
-![Preview of files](preview.jpg "Sample Image of Target Test Firm Images")
+![Preview of files](preview.jpg "Sample Image of Target Test Form Images")
