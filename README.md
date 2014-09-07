@@ -1,4 +1,4 @@
-Last Modified 08/30/14 — 12:42:09 AM • Scott Haneda • [@cometbus](https://twitter.com/cometbus)
+Last Modified 09/07/14 — 03:17:16 AM • Scott Haneda • [@cometbus](https://twitter.com/cometbus)
 
 # Target Test Forms
 This is a file supplied by 3m that was used in calibration in an era just after the dinosaurs.  For a few hundred thousand dollars you could buy printers, scanners, and other magical machines that spit out film, were rinsed in caustic chemicals just like old school photo-chemicals.
@@ -12,4 +12,4 @@ This usually works if your chemistry is new and the right temperature all the ti
 We were able to hold a 1% dot well, which is pretty amazing.
 
 ## Sample Image
-![Preview of files](preview.jpg "Sample Image of Target Test Form Images")
+![Preview of files](https://github.com/5c0tt/color-calibration-test-fiies/preview.jpg "Sample Image of Target Test Form Images")
