@@ -10,3 +10,6 @@ Once you have a match, no matter how terrible it looks, you are now baseline. Ad
 This usually works if your chemistry is new and the right temperature all the time, and you use high quality film that is linear in how it deviates from what it is supposed to be.
 
 We were able to hold a 1% dot well, which is pretty amazing.
+
+## Sample Image
+![Preview of files](preview.jpg "Sample Image of Target Test Firm Images")
